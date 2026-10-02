@@ -4,3 +4,5 @@ description: Supply Chain Analytics Graduate Student
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+gem "github-pages", group: :jekyll_plugins
