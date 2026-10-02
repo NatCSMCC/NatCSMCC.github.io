@@ -32,16 +32,15 @@ I am pursuing a Master of Science in Supply Chain Analytics to develop advanced 
 ## Humanitarian Logistics
 
 
-_"Humanitarian logistics is the process of planning, implementing, monitoring, and controlling the acquisition, storage, and transportation of goods and materials from the point of origin to disaster sites. Its purpose is to manage inventory, facilitate communication, support infrastructure, and deliver resources to help alleviate the suffering of disaster-affected populations efﬁciently and cost-effectively."_ -ascend.ahacentre.org
+_"Humanitarian logistics is the process of planning, implementing, monitoring, and controlling the acquisition, storage, and transportation of goods and materials from the point of origin to disaster sites. Its purpose is to manage inventory, facilitate communication, support infrastructure, and deliver resources to help alleviate the suffering of disaster-affected populations efﬁciently and cost-effectively."_ -AHA Centre [Link](https://ascend.ahacentre.org/ascend-humanitarian-logistics)
 
 <img src="./assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
-###### Image via https://www.wypr.org/show/midday-with-dan-rodricks/2021-03-12/doctors-without-borders-a-profile
+[Image source](https://www.wypr.org/show/midday-with-dan-rodricks/2021-03-12/doctors-without-borders-a-profile)
 
 <img src="./assets/img/redcross.jpeg" alt="Alt text description" width="500">
 
-###### Image via https://www.wypr.org/show/midday-with-dan-rodricks/2021-03-12/doctors-without-borders-a-profile](https://www.redcross.org/local/missouri/volunteer.html?srsltid=AU7gw4X5dG4bMoIBNFwrYVwI30GtC2gdMPnACABVNlPrlo81uwCL0T6O
-
+[Image source](https://www.redcross.org/local/missouri/volunteer.html?srsltid=AU7gw4X5dG4bMoIBNFwrYVwI30GtC2gdMPnACABVNlPrlo81uwCL0T6O)
 
 Humanitarian organizations prefer people with experience in the supply chain industry. I am hoping to gain some experience with a local company, then eventually get a job in supply logistics for a humanitarian organization like Red Cross or Doctors without Borders. 
 
