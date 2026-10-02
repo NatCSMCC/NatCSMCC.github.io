@@ -2,35 +2,48 @@
 layout: default
 ---
 
-**Welcome to my GitHub page!**, _Welcome to my GitHub page!_, or ~~strikethrough~~.
+**Welcome to my GitHub page!**
 
 **Email:** glase011@ccsusm.edu
 
 **Phone Number:** (760) 310-2461
 
-[Link to another page](./another-page.html).
-
 # About me
 
 I am an M.S. Supply Chain Analytics graduate student at California State University - San Marcos with a background in Anthropology. I am team-oriented and I have technical experience that includes coursework in computer science, statistics, and data analysis. I am experienced in technical writing, inventory tracking, data entry, and programming (Java, Python, C++), with an interest in applying analytical methods to operational and supply chain challenges.
 
+```js
+public class HelloWorld {
+  public static void main(String args[]) {
+    system.out.print("Hello, World!");
+  }
+}
+```
+My first ever line of code!
+
 # Personal Goals
 
-I am pursuing a Master of Science in Supply Chain Analytics to develop advanced skills in systems analysis and optimization. My academic and professional goals reflect a focus on analyzing and interpreting data, whether in computer systems and software or the study of human populations. I aspire to combine both my undergraduate education in anthropology with supply chain analytics to work in humanitarian logistics, where effective resource and aid allocation depends on both technical skills and knowledge of local social structures. This degree is a step toward applying supply chain analytics to complex, real-world operational challenges with meaningful social impact.
+I am pursuing a Master of Science in Supply Chain Analytics to develop advanced skills in systems analysis and optimization. My academic and professional goals reflect a focus on analyzing and interpreting data, whether in computer systems and software or the study of human populations. I aspire to combine both my undergraduate education in anthropology with supply chain analytics to work in humanitarian logistics, where effective resource and aid allocation depends on both technical skills and knowledge of local social structures. This degree is a step toward applying supply chain analytics to complex operational challenges with meaningful social impact.
 
 > _“When given the chance to turn away or do good, always err on the side of reckless compassion.”_ — fandomsandfeminism, writing on the _RMS Carpathia_ racing to rescue the _Titanic_
 
 ## Humanitarian Logistics
 
+
+_"Humanitarian logistics is the process of planning, implementing, monitoring, and controlling the acquisition, storage, and transportation of goods and materials from the point of origin to disaster sites. Its purpose is to manage inventory, facilitate communication, support infrastructure, and deliver resources to help alleviate the suffering of disaster-affected populations efﬁciently and cost-effectively."_ -ascend.ahacentre.org
+
 <img src="./assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500"> <img src="./assets/img/redcross.jpeg" alt="Alt text description" width="500">
 
-I would like to gain some experience with supply chain in industry, then eventually get a job in supply logistics for a humanitarian organization like Red Cross or Doctors without Borders
+Humanitarian organizations prefer people with experience in the supply chain industry. I am hoping to gain some experience with a local company, then eventually get a job in supply logistics for a humanitarian organization like Red Cross or Doctors without Borders. 
+
 ## Education and Professional Experience
 
 ### Education
-A.A. Liberal Arts: Emphasis in Math and Science from MiraCosta College
+* A.A. Liberal Arts: Emphasis in Math and Science from MiraCosta College
 
-B.A. Biological Anthropology from CSUSM
+* B.A. Biological Anthropology from CSUSM
+
+* plus 3+ years of programming experience from both CSUSM and MCC
 
 ### Professional Experience
 
@@ -53,102 +66,42 @@ JUNE 2015 – JULY 2021
 * Scheduled appointments and maintained operational efficiency during peak business hours
 * Delivered consistent customer service while supporting day-to-day business operations
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### Skills
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+##### Technical 
+* Programming: Java, Python, C++
+* Data Analysis & Entry
+* Research Design (Qualitative & Quantitative)
+* Microsoft 365
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+##### Professional 
+* Written and verbal communication
+* Technical and analytical writing
+* Inventory tracking and organization 
+* Collaboration and team building
 
 
-### Definition lists can be used with HTML syntax.
+#### Awards
+
+1. President's List award for academic achievement, Fall 2020 
+2. Certificate of Achievement in IGETC with Honors, May 2021
+3. Dean’s List award for academic achievement Spring 2025
+4. Dean’s List award for academic achievement Fall 2025
+5. Dean’s List award for academic achievement Spring 2026
+
+
+
+
+### Fun Facts:
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Birthplace:</dt>
+<dd>San Diego</dd>
+<dt>Favorite Color:</dt>
+<dd>Pink</dd>
+<dt>Favorite Book:</dt>
+<dd>Annihiliation by Jeff VanderMeer</dd>
+<dt>Favorite Animal:</dt>
+<dd>Orangutans</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
