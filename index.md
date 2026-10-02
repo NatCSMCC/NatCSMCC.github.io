@@ -22,6 +22,8 @@ I am pursuing a Master of Science in Supply Chain Analytics to develop advanced 
 
 ## Humanitarian Logistics
 
+<img src="./assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500"> <img src="./assets/img/redcross.jpeg" alt="Alt text description" width="500">
+
 I would like to gain some experience with supply chain in industry, then eventually get a job in supply logistics for a humanitarian organization like Red Cross or Doctors without Borders
 ## Education and Professional Experience
 
