@@ -5,6 +5,10 @@ title: Portfolio Steps
 
 # How I created an e-portfolio
 
+
+### *Note:*
+#### If you have trouble seeing the images, right click on one and select "Open image in new tab"
+
 ### Introduction:
 
 These are the steps I took to create an E-portfolio on GitHub. An e-portfolio allows you to display your best work. The e-portfolio on my site is a resumé format, but it can serve any purpose. For my current projects, I have been using Python in VS Code to create data visualizations like graphs and charts. Here is an image of something I recently did: 
