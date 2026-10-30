@@ -3,7 +3,7 @@ layout: default
 title: Portfolio Steps
 ---
 
-<img src="./assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
+<img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
 
 # How I created an e-portfolio
