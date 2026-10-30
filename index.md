@@ -98,6 +98,9 @@ JUNE 2015 – JULY 2021
 4. Dean’s List award for academic achievement Fall 2025
 5. Dean’s List award for academic achievement Spring 2026
 
+# Link to my subpage
+
+[This link takes you to a "How-To" guide on creating an e-portfolio](natcsmcc.github.io/Portfolio_Steps)
 
 ### Fun Facts:
 
