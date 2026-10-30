@@ -84,13 +84,12 @@ You can use markdown features to change text to bold, italics, make ordered list
 
 ## *Step 8:* 
 
-<img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
-
 Save and publish by selecting the "Commit changes" button. Check if your website was successful by opening a new tab and typing your username.github.io
+
+<img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
 Success!
 
-<img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
 ### *Tips:*
 1. Refer back to the minimal theme instructions if stuck.
@@ -108,30 +107,28 @@ These are the steps I took to create a subpage on my site. A subpage is a nested
 
 <img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
-Create a folder and give it a descriptive name (probably not "subpage_1"). Mine is "Portfolio_Steps". Then, inside this folder, create a markdown file by clicking "new file" and calling it index.md
+Create a folder and give it a descriptive name (probably not "subpage_1"). Mine is "Portfolio_Steps". For this example, I named it "exampleFile". Add a backslash / after that name. It will create a file. Name that one index.md. Then, inside this folder, create a markdown file by clicking "new file" and calling it index.md
+
+<img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
 ## *Step 2:*
 
 <img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
-Now, use markdown code to edit the file to include whatever you want. In this case, it is a step-by-step guide. You can include links and images in your subpage as well.
+Now, use markdown code to edit the file to include whatever you want. In this case, it is a step-by-step guide. You can include links and images in your subpage as well. Commit changes to save and publish. 
 
 ## *Step 3:*
 
 <img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
-Commit changes to save and publish.
+Add a link to the subpage on your main site. To do this, open the index.md file and create a projects section in your markdown and add the link. It should look like a normal link format, but the link will be the name of the subfolder. For me, it is /Portfolio_Steps/ 
+
+Then commit changes again.
 
 ## *Step 4:*
 
 <img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
-Add a  to the subpage on your main site. To do this, open the index.md file and create a projects section in your markdown and add the . Then commit changes again.
-
-## *Step 5:*
-
-<img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
-
-Check that everything works! Check your actions tab to see if they were successful. Then, visit your GitHub site and check to see if the changes took place. Locate the subpage  then click on it and make sure it has all the info you included. 
+Check that everything works! Check your actions tab to see if they were successful. Then, visit your GitHub site and check to see if the changes took place. Locate the subpage then click on it and make sure it has all the info you included. 
 
 _Et voilà!_
