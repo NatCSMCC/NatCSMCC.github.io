@@ -5,8 +5,11 @@ layout: default
 # How I created an e-portfolio
 
 ### Introduction:
+
 These are the steps I took to create an E-portfolio on GitHub. An e-portfolio allows you to display your best work. The e-portfolio on my site is a resume format, but it can serve any purpose. For my current projects, I have been using Python in VS Code to create data visualizations like graphs and charts. Here is an image of something I recently did: 
-Follow the steps below and you can create your own site too!
+
+Follow the steps below and you can create your own site too! 
+*Note* These instructions are for GitHub website, not desktop app. 
 
 ## *Step 1:*
 
@@ -27,18 +30,29 @@ On your GitHub repository, look at the README.md file. It has instructions from 
 
 ## *Step 5:*
 
-Add a headshot photo to your site by renaming the photo to something like "logo.png" on your computer then replace the photo in the assets file. You can also add more images in this file for elsewhere on the site. Replace the code in the config file to make sure the path and name of image is correct. Like this: 
+Add a headshot photo to your site by renaming the photo to something like "logo.png" on your computer then replace the photo in the "assets" file. You can also add more images in this file for elsewhere on the site. Replace the code in the config file to make sure the path and name of image is correct. Like this: 
 logo: /assets/img/logo.JPG
 
 ## *Step 6:*
+
 To change the contents on your site, open the index.md file. You can replace the existing template. Since mine was resume format, I included my personal description, work and education history, and some personal/professional goals.
 
 ## *Step 7:*
 
 You can use markdown features to change text to bold, italics, make ordered lists, create headers, include links, etc. 
 
-##
+This is the link for the Markdown list on GitHub: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+## *Step 8:* 
+
+Save and publish by selecting the "Commit changes" button. Check if your website was successful by opening a new tab and typing your username.github.io
+
+
+
+### *Tips:*
+1. Refer back to the minimal theme instructions if stuck.
+2. Commit changes regularly to save files manually.
+3. Check if actions were successful in the actions tab.  
 
 ```js
 public class HelloWorld {
