@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Portfolio Steps
 ---
 
 <img src="./assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
