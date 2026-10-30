@@ -100,7 +100,7 @@ JUNE 2015 – JULY 2021
 
 # Link to my subpage
 
-[This link takes you to a "How-To" guide on creating an e-portfolio](natcsmcc.github.io/Portfolio_Steps/index.md)
+[This link takes you to a "How-To" guide on creating an e-portfolio](/Portfolio_Steps/)
 
 ### Fun Facts:
 
