@@ -48,7 +48,7 @@ To change the contents on your site, open the index.md file. You can replace the
 
 You can use markdown features to change text to bold, italics, make ordered lists, create headers, include links, etc. 
 
-This is the link for the Markdown list on GitHub: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[This is the link for the Markdown list on GitHub:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## *Step 8:* 
 
