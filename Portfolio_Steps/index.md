@@ -4,6 +4,9 @@ layout: default
 
 # How I created an e-portfolio
 
+### Introduction:
+These are the steps I took to create an E-portfolio on GitHub. An e-portfolio allows you to display your best work. The e-portfolio on my site is a resume format, but it can serve any purpose. For my current projects, I have been using Python in VS Code to create data visualizations like graphs and charts. Here is an image of something I recently did: 
+Follow the steps below and you can create your own site too!
 
 ## *Step 1:*
 
@@ -12,10 +15,29 @@ Create a GitHub account. I already had one (NatCSMCC).
 ## *Step 2:*
 
 Pick a theme through GitHub's pages. I am using the "Minimal," a Jekyll theme. There are many more themes, but Minimal is a simple one. This is the link to the theme and its source code:
+Download the ZIP file then unzip and extract its contents.
 
 ## *Step 3:*
 
+Clone the repository from GitHub onto your computer OR find the local copy of your repository. Mine is "NatCSMCC.github.io". 
 
+## *Step 4:*
+
+On your GitHub repository, look at the README.md file. It has instructions from the Minimal theme to  help you change your website. Next, open the configuration file (_config.yml). Here, you can change information like the title, description, or even adding a photo to your site. Hit the edit button to change the code and the preview button will show how the markdown appears on the site. 
+
+## *Step 5:*
+
+Add a headshot photo to your site by renaming the photo to something like "logo.png" on your computer then replace the photo in the assets file. You can also add more images in this file for elsewhere on the site. Replace the code in the config file to make sure the path and name of image is correct. Like this: 
+logo: /assets/img/logo.JPG
+
+## *Step 6:*
+To change the contents on your site, open the index.md file. You can replace the existing template. Since mine was resume format, I included my personal description, work and education history, and some personal/professional goals.
+
+## *Step 7:*
+
+You can use markdown features to change text to bold, italics, make ordered lists, create headers, include links, etc. 
+
+##
 
 
 ```js
