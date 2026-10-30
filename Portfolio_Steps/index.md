@@ -82,9 +82,11 @@ You can use markdown features to change text to bold, italics, make ordered list
 Save and publish by selecting the "Commit changes" button. Check if your website was successful by opening a new tab and typing your username.github.io
 
 <img src="../assets/img/step8a.png" alt="Alt text description" width="500">
-<img src="../assets/img/step8b.png" alt="Alt text description" width="500">
 
 Success!
+
+<img src="../assets/img/step8b.png" alt="Alt text description" width="500">
+
 
 
 ### *Tips:*
@@ -128,3 +130,5 @@ Then commit changes again.
 Check that everything works! Check your actions tab to see if they were successful. Then, visit your GitHub site and check to see if the changes took place. Locate the subpage then click on it and make sure it has all the info you included. 
 
 ## _Et voilà!_
+
+<img src="../assets/img/finalsubpage.png" alt="Alt text description" width="500">
