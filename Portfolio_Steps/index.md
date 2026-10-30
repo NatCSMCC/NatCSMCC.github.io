@@ -5,7 +5,6 @@ title: Portfolio Steps
 
 <img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
-[Google](https://www.google.com)
 
 # How I created an e-portfolio
 
@@ -22,10 +21,10 @@ Create a GitHub account. I already had one (NatCSMCC).
 
 ## *Step 2:*
 
-Pick a theme through GitHub's pages. I am using the "Minimal," a Jekyll theme. There are many more themes, but Minimal is a simple one. This is the link to the theme and its source code:
+Pick a theme through GitHub's pages. I am using the "Minimal," a Jekyll theme. There are many more themes, but Minimal is a simple one. This is the  to the theme and its source code:
 Download the ZIP file then unzip and extract its contents.
 
-This is the link to view GitHub's various themes: https://github.com/pages-themes
+[This is the link to view GitHub's various themes](https://github.com/pages-themes)
 
 ## *Step 3:*
 
@@ -82,10 +81,10 @@ Commit changes to save and publish.
 
 ## *Step 4:*
 
-Add a link to the subpage on your main site. To do this, open the index.md file and create a projects section in your markdown and add the link. Then commit changes again.
+Add a  to the subpage on your main site. To do this, open the index.md file and create a projects section in your markdown and add the . Then commit changes again.
 
 ## *Step 5:*
 
-Check that everything works! Check your actions tab to see if they were successful. Then, visit your GitHub site and check to see if the changes took place. Locate the subpage link then click on it and make sure it has all the info you included. 
+Check that everything works! Check your actions tab to see if they were successful. Then, visit your GitHub site and check to see if the changes took place. Locate the subpage  then click on it and make sure it has all the info you included. 
 
 _Et voilà!_
