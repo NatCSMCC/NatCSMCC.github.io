@@ -8,8 +8,8 @@ layout: default
 
 These are the steps I took to create an E-portfolio on GitHub. An e-portfolio allows you to display your best work. The e-portfolio on my site is a resume format, but it can serve any purpose. For my current projects, I have been using Python in VS Code to create data visualizations like graphs and charts. Here is an image of something I recently did: 
 
-Follow the steps below and you can create your own site too! 
-*Note* These instructions are for GitHub website, not desktop app. 
+Follow the steps below and you can create your own site too!\
+*__Note:__* These instructions are for GitHub website, not desktop app. 
 
 ## *Step 1:*
 
@@ -19,6 +19,8 @@ Create a GitHub account. I already had one (NatCSMCC).
 
 Pick a theme through GitHub's pages. I am using the "Minimal," a Jekyll theme. There are many more themes, but Minimal is a simple one. This is the link to the theme and its source code:
 Download the ZIP file then unzip and extract its contents.
+
+This is the link to view GitHub's various themes: https://github.com/pages-themes
 
 ## *Step 3:*
 
@@ -30,7 +32,8 @@ On your GitHub repository, look at the README.md file. It has instructions from 
 
 ## *Step 5:*
 
-Add a headshot photo to your site by renaming the photo to something like "logo.png" on your computer then replace the photo in the "assets" file. You can also add more images in this file for elsewhere on the site. Replace the code in the config file to make sure the path and name of image is correct. Like this: 
+Add a headshot photo to your site by renaming the photo to something like "logo.png" on your computer then replace the photo in the "assets" file. You can also add more images in this file for elsewhere on the site. Replace the code in the config file to make sure the path and name of image is correct. Like this:
+
 logo: /assets/img/logo.JPG
 
 ## *Step 6:*
@@ -48,93 +51,36 @@ This is the link for the Markdown list on GitHub: https://docs.github.com/en/get
 Save and publish by selecting the "Commit changes" button. Check if your website was successful by opening a new tab and typing your username.github.io
 
 
-
 ### *Tips:*
 1. Refer back to the minimal theme instructions if stuck.
 2. Commit changes regularly to save files manually.
 3. Check if actions were successful in the actions tab.  
 
-```js
-public class HelloWorld {
-  public static void main(String args[]) {
-    system.out.print("Hello, World!");
-  }
-}
-```
-My first ever line of code!
 
+# Creating a subpage (optional)
 
-# Personal Goals
+## Introduction:
 
-I am pursuing a Master of Science in Supply Chain Analytics to develop advanced skills in systems analysis and optimization. My academic and professional goals reflect a focus on analyzing and interpreting data, whether in computer systems and software or the study of human populations. I aspire to combine both my undergraduate education in anthropology with supply chain analytics to work in humanitarian logistics, where effective resource and aid allocation depends on both technical skills and knowledge of local social structures. This degree is a step toward applying supply chain analytics to complex operational challenges with meaningful social impact.
+These are the steps I took to create a subpage on my site. A subpage is a nested site within your site. Someone viewing your GitHub site will be able to click the link and go to your subpage. You are looking at my subpage right now!
 
-> _“When given the chance to turn away or do good, always err on the side of reckless compassion.”_ — fandomsandfeminism, writing on the _RMS Carpathia_ racing to rescue the _Titanic_
+## *Step 1:*
 
-## Humanitarian Logistics
+Create a folder and give it a descriptive name (probably not "subpage_1"). Mine is "Portfolio_Steps". Then, inside this folder, create a markdown file by clicking "new file" and calling it index.md
 
+## *Step 2:*
 
-_"Humanitarian logistics is the process of planning, implementing, monitoring, and controlling the acquisition, storage, and transportation of goods and materials from the point of origin to disaster sites. Its purpose is to manage inventory, facilitate communication, support infrastructure, and deliver resources to help alleviate the suffering of disaster-affected populations efﬁciently and cost-effectively."_ -AHA Centre [Link](https://ascend.ahacentre.org/ascend-humanitarian-logistics)
+Now, use markdown code to edit the file to include whatever you want. In this case, it is a step-by-step guide. You can include links and images in your subpage as well.
 
-<img src="./assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
+## *Step 3:*
 
-[Image source](https://www.wypr.org/show/midday-with-dan-rodricks/2021-03-12/doctors-without-borders-a-profile)
+Commit changes to save and publish.
 
-<img src="./assets/img/redcross.jpeg" alt="Alt text description" width="500">
+## *Step 4:*
 
-[Image source](https://www.redcross.org/local/missouri/volunteer.html?srsltid=AU7gw4X5dG4bMoIBNFwrYVwI30GtC2gdMPnACABVNlPrlo81uwCL0T6O)
+Add a link to the subpage on your main site. To do this, open the index.md file and create a projects section in your markdown and add the link. Then commit changes again.
 
-Humanitarian organizations prefer people with experience in the supply chain industry. I am hoping to gain some experience with a local company, then eventually get a job in supply logistics for a humanitarian organization like Red Cross or Doctors without Borders. 
+## *Step 5:*
 
-## Education and Professional Experience
+Check that everything works! Check your actions tab to see if they were successful. Then, visit your GitHub site and check to see if the changes took place. Locate the subpage link then click on it and make sure it has all the info you included. 
 
-### Education
-* A.A. Liberal Arts: Emphasis in Math and Science from MiraCosta College
-
-* B.A. Biological Anthropology from CSUSM
-
-* plus 3+ years of programming experience from both CSUSM and MCC
-
-
-### Professional Experience
-
-**Laboratory Data Consultants, Carlsbad, CA — Technical Writer**
-
-JULY 2021 – APRIL 2022
-
-* Analyzed and synthesized environmental laboratory data to produce technical reports for regulatory and client use
-* Collaborated with chemists and project managers to interpret analytical results and ensure data accuracy
-* Performed structured data entry, validation, and documentation in compliance with reporting standards
-* Organized and maintained technical records to support efficient data retrieval and project workflows
-
-**Vista Haircuts, Vista, CA — Front Desk Receptionist**
-
-JUNE 2015 – JULY 2021
-
-* Managed point-of-sale transactions and cash reconciliation in a high-volume customer environment
-* Tracked inventory levels of products and supplies, supporting restocking and purchasing decisions
-* Monitored product usage patterns to prevent shortages and overstocking
-* Scheduled appointments and maintained operational efficiency during peak business hours
-* Delivered consistent customer service while supporting day-to-day business operations
-
-#### Skills
-
-##### Technical 
-* Programming: Java, Python, C++
-* Data Analysis & Entry
-* Research Design (Qualitative & Quantitative)
-* Microsoft 365
-
-##### Professional 
-* Written and verbal communication
-* Technical and analytical writing
-* Inventory tracking and organization 
-* Collaboration and team building
-
-
-#### Awards
-
-1. President's List award for academic achievement, Fall 2020 
-2. Certificate of Achievement in IGETC with Honors, May 2021
-3. Dean’s List award for academic achievement Spring 2025
-4. Dean’s List award for academic achievement Fall 2025
-5. Dean’s List award for academic achievement Spring 2026
+_Et voilà!_
