@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<img src="./assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
+
+
 # How I created an e-portfolio
 
 ### Introduction:
