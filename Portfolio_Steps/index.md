@@ -5,6 +5,7 @@ title: Portfolio Steps
 
 <img src="../assets/img/doctorswithoutborders.jpg" alt="Alt text description" width="500">
 
+[Google](https://www.google.com)
 
 # How I created an e-portfolio
 
