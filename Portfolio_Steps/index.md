@@ -5,9 +5,18 @@ layout: default
 # How I created an e-portfolio
 
 
-## Step 1:
+## *Step 1:*
 
-Creating a GitHub page
+Create a GitHub account. I already had one (NatCSMCC).
+
+## *Step 2:*
+
+Pick a theme through GitHub's pages. I am using the "Minimal," a Jekyll theme. There are many more themes, but Minimal is a simple one. This is the link to the theme and its source code:
+
+## *Step 3:*
+
+
+
 
 ```js
 public class HelloWorld {
